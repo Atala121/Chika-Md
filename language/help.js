@@ -427,7 +427,7 @@ return`  _Selamat ${salam} kak ${pushname}_
   *≻* Sanzy
   *≻* Nekel
   *≻* Bagas Prdn
-  `
+  *≻* atala
 }
 
 //—————「 Welcome 」—————//
